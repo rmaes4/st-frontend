@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectTasksOptions">
+    <enabled-global>
+      <option value="Prettier TypeScript" />
+      <option value="Prettier JavaScript" />
+      <option value="Prettier HTML" />
+      <option value="Prettier SCSS" />
+      <option value="Prettier CSS" />
+      <option value="Prettier JSON" />
+      <option value="Prettier Markdown" />
+      <option value="Prettier Svelte" />
+    </enabled-global>
+  </component>
+</project>
